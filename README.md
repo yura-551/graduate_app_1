@@ -174,7 +174,7 @@
 
 ### 10-1. 使用予定の技術
 
-- フレームワーク：Ruby on Rails　(3,4,7)
+- フレームワーク：Ruby on Rails　(3.4.7)
 - DB：SQLite
 - デプロイ先：Render
 - 使用予定ライブラリ：必要に応じて devise(認証)、simple_form などフォーム補助
