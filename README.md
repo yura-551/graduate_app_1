@@ -227,5 +227,9 @@
 | 高血圧 | イランイラン +1 / ジュニパー +1 / サイプレス +1 / マジョラム +1 |
 | 基礎代謝低下 | ジュニパー +1 / サイプレス +1 / グレープフルーツ +1 |
 
-##　画面遷移図
+##  画面遷移図
 https://www.figma.com/design/l1aIlr3uRgkz14rVOEmMaU/graduate_app_1?node-id=8-224&t=Xxy6QPypnvokXCrU-1
+
+###  ER図
+https://i.gyazo.com/8e52840be150cb108dd76d8c0f356488.png
+
